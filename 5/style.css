@@ -1,0 +1,13 @@
+.input {
+    width: 200px;                   /* Ширина */
+    height: 20px;                   /* Высота */
+    font-size: 16px;                /* Размер шрифта */
+    margin: 3px 0px;                /* Отступы */
+}
+
+.button {
+    width: 208px;                   /* Ширина */
+    height: 25px;                   /* Высота */
+    font-size: 16px;                /* Размер шрифта */
+    margin: 3px 0px;                /* Отступы */
+}
